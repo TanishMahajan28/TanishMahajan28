@@ -41,10 +41,6 @@
   <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TanishMahajan28&theme=radical" /> -->
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishMahajan28&layout=compact&theme=radical&langs_count=8" />
-</p> -->
-
 ---
 
 ### 🌍 Connect with Me  
